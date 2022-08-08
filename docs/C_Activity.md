@@ -2,6 +2,7 @@
    [注意]：`修改数据时一定要修改正确后再登录`
 
 ![Activity: Lucky Winner I/II](images/C_lucky_winner.png)  
+[sflt]: images/sflt.png
 `[Tickets]`：彩票数量  
 `[Deadline]`：活动倒计时  
 `[Lucky Winner type]`：对应某个 Lucky Winner 活动的值  
@@ -13,7 +14,7 @@
  4. 联系后端发奖
  5. 修改数据
     1. （`Activity: Lucky Winner I/II` 的 `[Deadline]` 修改为当前时间）
-    2. 点击 `[set First login today]` 按钮
+    2. 点击 ![sflt] 按钮
  6. 下掉活动（等待约30s，活动配置完全刷新）
  7. 登录
 ### 跨天在线收奖
